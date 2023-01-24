@@ -1,6 +1,8 @@
 # CycleGAN
 CycleGAN Project - Group Project for AI at University of Eastern Finland
 
+The Notebook and the Project Report is Included in thie Repo
+
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/39055744/214406731-365ad16a-4e7b-42f7-a611-d3cb42e76781.png">
 
 
